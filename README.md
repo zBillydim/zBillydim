@@ -25,7 +25,7 @@
 
 </p>
 
-<b>My uses on GitHub</b>
+### My uses on GitHub
 
 <a href="https://github.com/zBillydim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zBillydim&langs_count=10&title_color=ffffff&text_color=3382ed&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
