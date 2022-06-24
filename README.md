@@ -3,7 +3,7 @@
 <h3> Hey! I'm Gabriel Costa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
  
 - 💻  Full Stack Developer
-- 🔥  Currently working on Polidados, SOST.
+- 🔥  Looking for Work and Freelancer's
 - 🧠  I'm learning ReactJS and VueJS
 
 ### Get In Touch:
