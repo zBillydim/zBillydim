@@ -4,7 +4,7 @@
  
 - 💻  Full Stack Developer
 - 🔥  Looking for Work and Freelancer's
-- 🧠  I'm learning ReactJS and VueJS
+- 🧠  I'm current learning ReactJS and VueJS
 
 ### Get In Touch:
 
