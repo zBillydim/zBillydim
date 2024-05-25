@@ -3,8 +3,9 @@
 <h3> Hey! I'm Gabriel Costa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
  
 - 💻  Full Stack Developer
-- 🔥  Looking Freelancer's
-- 🧠  I'm current learning ReactJS and NextJS
+- 🔥  Laravel, NextJS
+- 🧠  I'm current learning
+- 💼  Working at @nvgo
 
 ### Get In Touch:
 
