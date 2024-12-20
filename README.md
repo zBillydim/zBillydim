@@ -4,8 +4,8 @@
  
 - 💻  Full Stack Developer
 - 🔥  Laravel, NextJS
-- 🧠  I'm current learning
-- 💼  Working at @nvgo
+- 🧠  I'm currently learning
+- 💼  Working at @Devallus
 
 ### Get In Touch:
 
