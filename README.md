@@ -7,10 +7,6 @@
 - 🧠  I'm currently learning
 - 💼  Working at @Devallus
 
-### Get In Touch:
-
-<p align="left"> <a href="https://discord.com/users/Gabriel C. ♥#0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a> <a style="margin-left: 10px"href="http://www.instagram.com/gbrlsz1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a style="margin-left: 10px" href="https://www.twitter.com/gbrlszC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### Languages and Tools: <p align="left">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
