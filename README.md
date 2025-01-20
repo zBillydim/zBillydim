@@ -25,5 +25,11 @@
 ### My uses on GitHub
 
 <a href="https://github.com/zBillydim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zBillydim&langs_count=10&title_color=ffffff&text_color=3382ed&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img align="right" src = "https://komarev.com/ghpvc/?username=zBillydim" alt="rafa-thayto profile views" />
+  <a href="https://www.linkedin.com/in/gabriel-costa-saucedo-158205216/">
+    <img align="right" alt="Gabriel Costa LinkedIn" src="https://img.shields.io/badge/-Gabriel-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zBillydim&show_icons=true&theme=react">
+
 
 </div>
